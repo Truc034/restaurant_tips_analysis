@@ -1,13 +1,13 @@
 # 🍽️ Restaurant Tips Analysis
 
-## Project description
+## 📌 Project description
 This project aims to use the restaurant tips dataset to practice creating composition plots and visualizations. We will examine the relationship between different variables and the tips given.
 
 ![image](https://github.com/user-attachments/assets/5cbc2051-9678-4cd6-83a2-8c1ab99fd2b2)
 
-## Data description
+## 📊 Data description
 
-### Data source
+### 🌐 Data source
 This project aims to use the restaurant tips dataset to practice creating composition plots and visualizations. We will examine the relationship between different variables and the tips given.
 
 The dataset consists of information from 244 restaurant bills, collected in the US in 1987.
@@ -53,13 +53,13 @@ We can see information about:
 + **time**: Lunch or Dinner
 + **size**: Number of people at the table
 
-### Main goals
+### 🎯 Main goals
 * Understand the overall distribution of tip values as well as within specific subgroups
 * Analyze tipping behaviors in relation to gender, meal times (including days of the week or lunch vs dinner), and smoking status
 * Detect outliers or noteworthy patterns (e.g., large tip values, tight ranges)
 * Extract actionable insights via statistical analysis and visual storytelling
 
-### Results
+### 📈 Results
 
 #### 🔍 Summary of exploration
 The analysis investigates tipping patterns across various customer segments:

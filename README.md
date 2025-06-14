@@ -29,6 +29,7 @@ The dataset includes transactional data from a restaurant. Each row represents a
 ### Data access
 #### 📥 Data import
 First, let's import the needed libraries: Pandas & Matplotlib.
-`python
+`
 import pandas as pd
-import matplotlib.pyplot as plt`
+import matplotlib.pyplot as plt
+`

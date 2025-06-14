@@ -2,7 +2,7 @@
 
 This project aims to use the restaurant tips dataset to practice creating composition plots and visualizations. We will examine the relationship between different variables and the tips given.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5cbc2051-9678-4cd6-83a2-8c1ab99fd2b2)
 
 This project aims to use the restaurant tips dataset to practice creating composition plots and visualizations. We will examine the relationship between different variables and the tips given.
 

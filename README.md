@@ -53,22 +53,22 @@ We can see information about:
 + **time**: Lunch or Dinner
 + **size**: Number of people at the table
 
-### 🎯 Main goals
+## 🎯 Main goals
 * Understand the overall distribution of tip values as well as within specific subgroups
 * Analyze tipping behaviors in relation to gender, meal times (including days of the week or lunch vs dinner), and smoking status
 * Detect outliers or noteworthy patterns (e.g., large tip values, tight ranges)
 * Extract actionable insights via statistical analysis and visual storytelling
 
-### 📈 Results
+## 📈 Results
 
-#### 🔍 Summary of exploration
+### 🔍 Summary of exploration
 The analysis investigates tipping patterns across various customer segments:
 * Smoking Status: Smokers show a slight inclination to tip more than non-smokers, though the overall difference is not significant. 
 * Gender: Male customers tend to tip a bit more and display a wider range in tipping behavior, including more frequent high-value tips.
 * Day of Week: Weekend usually leave larger tips than weekday, possibly reflecting more relaxed or celebratory dining occasions.
 * Meal Time: Tips given during dinner are generally higher and more varied compared to lunch, implying a difference in dining context or spending habits.
 
-#### 📊 Visual Evidence
+### 📊 Visual Evidence
 Each of these insights is visualized in grouped histograms showing tip distributions by:
 + Smoking Status
 + Gender

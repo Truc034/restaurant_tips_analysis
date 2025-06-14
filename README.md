@@ -75,4 +75,4 @@ Each of these insights is visualized in grouped histograms showing tip distribut
 + Day Type
 + Meal Time
 
-📓 For detailed breakdowns and plots, view the [full notebook here].(https://github.com/Truc034/restaurant_tips_analysis/blob/main/Restaurant_tips_analysis.ipynb)
+📓 For detailed breakdowns and plots, view the [full notebook here](https://github.com/Truc034/restaurant_tips_analysis/blob/main/Restaurant_tips_analysis.ipynb.

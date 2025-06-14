@@ -14,6 +14,7 @@ The dataset consists of information from 244 restaurant bills, collected in the 
 
 It includes details about the tips given to restaurant staff, such as the total bill, tip amount, gender of the person paying, smoking status, day of the week, time of day, and party size.
 The dataset is publicly available and sourced from the GitHub repository of RusAbk’s SCA datasets collection.
+
 **Link**: https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
 
 ### 📥 Data access
